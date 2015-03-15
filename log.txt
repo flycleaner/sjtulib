@@ -12,20 +12,3 @@
 <br><br>操作IP: 123.125.160.216<br>操作时间: 2015-02-28 22:40:29<br>操作页面:/home/index.php<br>提交方式: GET<br>提交参数: cat<br>提交数据: 3%' AND 1=CHAR(106)+CHAR(106)+CHAR(106) --
 <br><br>操作IP: 123.125.160.216<br>操作时间: 2015-02-28 22:40:29<br>操作页面:/home/index.php<br>提交方式: GET<br>提交参数: cat<br>提交数据: 3') AND 1=CHAR(106)+CHAR(106)+CHAR(106) --
 <br><br>操作IP: 162.213.210.99<br>操作时间: 2015-03-01 01:42:55<br>操作页面:/home/index.php<br>提交方式: GET<br>提交参数: p<br>提交数据: '43
-<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 10:54:57<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’;exec%20master..xp_cmdshell%20’dir%20 c:%20>%20c:\inetpub\wwwroot\?.txt’--&&  
-<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 10:55:05<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’;exec%20master..xp_cmdshell%20’dir%20 c:%20>%20c:\inetpub\wwwroot\?.txt’--&&  
-<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 10:55:15<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’;exec%20master..xp_cmdshell%20’dir%20 c:%20>%20c:\inetpub\wwwroot\?.txt’--&&  
-<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 10:55:36<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’;exec%20master..xp_cmdshell%20’dir%20 c:%20>%20c:\inetpub\wwwroot\?.txt’--&&  
-<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 10:55:44<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’;exec%20master..xp_cmdshell%20’dir%20 c:%20>%20c:\inetpub\wwwroot\?.txt’--&&  
-<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 10:57:25<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’;exec%20master..xp_cmdshell%20’dir%20 c:%20>%20c:\inetpub\wwwroot\?.txt’--&&  
-<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 11:00:56<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’;exec%20master..xp_cmdshell%20’dir%20 c:%20>%20c:\inetpub\wwwroot\?.txt’--&&  
-<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 11:02:05<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’ or 1=1--  
-<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 11:02:13<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’ or 1=1--  
-<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 11:02:58<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’ or 1=1--  
-<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 11:03:07<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’ or 1=1--  
-<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 11:03:31<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’ or 1=1--  
-<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 11:03:42<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’ or 1=1--  
-<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 17:12:35<br>操作页面:/home/process/addActivity.process.php<br>提交方式: POST<br>提交参数: addArticle_title<br>提交数据: <img src="javas&#99;ript:alert(’XSS’)">  
-<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 09:12:46<br>操作页面:/home/consult/user/questionrecord.php<br>提交方式: POST<br>提交参数: content<br>提交数据: <img src="javas&#99;ript:alert(’XSS’)">  
-<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 09:12:49<br>操作页面:/home/consult/user/questionrecord.php<br>提交方式: POST<br>提交参数: content<br>提交数据: <img src="javas&#99;ript:alert(’XSS’)">  
-<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 09:12:58<br>操作页面:/home/consult/user/questionrecord.php<br>提交方式: POST<br>提交参数: content<br>提交数据: <img src="javas&#99;ript:alert(’XSS’)">  
