@@ -1,0 +1,51 @@
+.holder,.manageActivity_holder,.searchRegistrationUsers_showTable_holder,
+.qgzxManagement_unsign_holder,
+.qgzxManagement_sign_holder,.qgzxManagement_punishmentSearch_holder
+	{
+	margin: 15px 0;
+}
+
+.holder a,.manageActivity_holder a,.searchRegistrationUsers_showTable_holder a,.qgzxManagement_unsign_holder a,
+.qgzxManagement_sign_holder a,.qgzxManagement_punishmentSearch_holder a
+ {
+	font-size: 12px;
+	cursor: pointer;
+	margin: 0 5px;
+	color: #333;
+}
+
+.holder a:hover,.manageActivity_holder a:hover,.searchRegistrationUsers_showTable_holder a:hover,.qgzxManagement_unsign_holder a:hover,
+.qgzxManagement_sign_holder a:hover,.qgzxManagement_punishmentSearch_holder a:hover{
+	background-color: #222;
+	color: #fff;
+}
+
+ a.jp-previous, a.jp-next{ 
+	text-decoration: none;
+	margin-right: 15px;
+	-webkit-transition: background-color 0.3s linear, color 0.3s linear;
+    -moz-transition: background-color 0.3s linear, color 0.3s linear;
+    transition: background-color 0.3s linear, color 0.3s linear;
+}
+
+
+ a.jp-current, a.jp-current:hover { 
+	color: #FF4242;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+ a.jp-disabled, a.jp-disabled:hover {
+	text-decoration: none;
+	color: #f2f2f2;
+}
+
+ a.jp-current, a.jp-current:hover,
+ a.jp-disabled, a.jp-disabled:hover {
+	cursor: default; 
+	background: none;
+}
+
+.holder span,.manageActivity_holder span,.searchRegistrationUsers_showTable_holder span,.qgzxManagement_unsign_holder span,
+.qgzxManagement_sign_holder span, .qgzxManagement_punishmentSearch_holder span 
+	{ margin: 0 5px; }

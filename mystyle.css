@@ -1,0 +1,29 @@
+th{
+	padding: 0;
+}
+
+#arrangeJobs_table th{
+	background-color:white;
+}
+
+#arrangeJobs_table table,#arrangeJobs_table tbody,#arrangeJobs_table th,#arrangeJobs_table tr,#arrangeJobs_table td {
+	height:33px;
+	padding: 0;
+	text-align:center;
+	border:1px solid darkgrey;
+}
+table#arrangeJobs_table {
+	border-collapse:separate;
+}
+
+table.mytable th, table.mytable td{
+	height:33px;
+	padding: 0;
+	text-align:center;
+	border:1px solid darkgrey;
+	border-collapse:separate;
+}
+
+table.mytable {
+	font-size:70%;
+}

